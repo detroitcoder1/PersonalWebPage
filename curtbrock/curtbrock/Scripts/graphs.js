@@ -50,11 +50,11 @@ var options = {
 };
 var graph1Data = 
   [{
-    value: 50,
+    value: 72,
     color:"red"
   },
   {
-    value : 50,
+    value : 28,
     color : "#e9e9e9"
   }
   ];
